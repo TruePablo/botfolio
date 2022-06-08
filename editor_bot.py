@@ -6,6 +6,25 @@ from PIL import ImageDraw, ImageFont
 from PIL import ImageChops
 from PIL import ImageFilter
 
+######################################################################################
+#
+#   ver: 1.0.0
+#   Ready and work:
+#   Все функции обработки фотографий, водяной знак
+#
+#       ||             ||
+#       ||             ||
+#       ||             ||
+#
+#
+#       \              /
+#        \____________/
+#
+#                                                                 My links:
+#                                                       https://t.me/milliondollaruser
+#                                                             https://t.me/noofme
+######################################################################################
+
 #Токены API, переменные и пр.
 bot = telebot.TeleBot('5370061736:AAESR-sRMx1XEtNMA6BezRddokUWza_2_pQ')
 SOURCE_DIR = 'imgs/'
