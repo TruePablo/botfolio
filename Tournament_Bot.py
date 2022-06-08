@@ -6,7 +6,8 @@ import uuid
 #
 #   ver: 1.0.3
 #   Ready and work:
-#   ban/unban, promo, give cash/take cash, give admin, link nickname
+#   ban/unban, promo, give cash/take cash, give admin, link nickname /warn
+#   Games, tournaments, creation maps system
 #
 #       ||             ||
 #       ||             ||
@@ -16,9 +17,9 @@ import uuid
 #       \              /
 #        \____________/
 #
-#
-#   TODO: Games, games counter, statistics, games amount, admins
-#                                                                   https://t.me/noofme
+#                                                                 My links:
+#                                                       https://t.me/milliondollaruser
+#                                                             https://t.me/noofme
 ######################################################################################
 
 
