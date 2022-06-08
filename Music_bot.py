@@ -1,6 +1,23 @@
 import telebot, os, os.path
 from yandex_music import Client
-
+######################################################################################
+#
+#   ver: 1.0.0
+#   Ready and work:
+#   Получение чартов, музыки, поиск альбомов, обложки
+#
+#       ||             ||
+#       ||             ||
+#       ||             ||
+#
+#
+#       \              /
+#        \____________/
+#
+#                                                                 My links:
+#                                                       https://t.me/milliondollaruser
+#                                                             https://t.me/noofme
+######################################################################################
 client = Client("AQAAAAAc65qhAAG8XjyfoAhskUCSi6PAgpWv-2I").init()
 bot = telebot.TeleBot('5341033103:AAFsG6gYfrTJn98J69SF1USyz4-q37e8QIs')
 SRC = 'covers/'
