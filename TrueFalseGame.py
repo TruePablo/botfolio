@@ -3,6 +3,25 @@ import sqlite3
 #Токен и создание переменной бота
 bot = telebot.TeleBot('5305291753:AAFnf63hT4afETcoJFGY1js7uDRYjMvHXSY')
 
+######################################################################################
+#
+#   ver: 1.0.0
+#   Ready and work:
+#   Создание заданий, игроков, логика игры
+#
+#       ||             ||
+#       ||             ||
+#       ||             ||
+#
+#
+#       \              /
+#        \____________/
+#
+#                                                                 My links:
+#                                                       https://t.me/milliondollaruser
+#                                                             https://t.me/noofme
+######################################################################################
+
 #Создание клавиатур
 keyboardstart = telebot.types.ReplyKeyboardMarkup(True, True)
 keyboardstart.row('Играть', 'Помощь')
