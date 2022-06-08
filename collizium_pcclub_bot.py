@@ -7,6 +7,25 @@ global doc
 doc = docx.Document()
 from multiprocessing.context import Process
 
+######################################################################################
+#
+#   ver: 1.0.3
+#   Ready and work:
+#   Создать резюме, система страйков
+#
+#       ||             ||
+#       ||             ||
+#       ||             ||
+#
+#
+#       \              /
+#        \____________/
+#
+#                                                                 My links:
+#                                                       https://t.me/milliondollaruser
+#                                                             https://t.me/noofme
+######################################################################################
+
 class ScheduleMessage():
     def try_send_schedule(s):
         while True:
